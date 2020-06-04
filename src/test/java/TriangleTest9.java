@@ -11,6 +11,5 @@ class TriangleTest9 {
         Boolean expected = false;
         assertEquals(expected, actual);
 
-        
     }
 }

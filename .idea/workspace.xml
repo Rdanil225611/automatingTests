@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19400a43-2d95-470e-81cb-bf2b4033377d" name="Default Changelist" comment="" />
+    <list default="true" id="19400a43-2d95-470e-81cb-bf2b4033377d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TriangleTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TriangleTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TriangleTest9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TriangleTest9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TriangleTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TriangleTest3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TriangleTest9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TriangleTest9.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+            <state relative-caret-position="180">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -24,14 +30,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="140">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest9.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
               <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
@@ -40,10 +46,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="20">
+              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -58,21 +92,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/TriangleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/TriangleTest1.java" />
         <option value="$PROJECT_DIR$/src/test/java/TriangleTest2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TriangleTest3.java" />
         <option value="$PROJECT_DIR$/src/test/java/TriangleTest4.java" />
         <option value="$PROJECT_DIR$/src/test/java/TriangleTest5.java" />
         <option value="$PROJECT_DIR$/src/test/java/TriangleTest6.java" />
         <option value="$PROJECT_DIR$/src/test/java/TriangleTest7.java" />
         <option value="$PROJECT_DIR$/src/test/java/TriangleTest8.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TriangleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/TriangleTest9.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TriangleTest3.java" />
       </list>
     </option>
   </component>
@@ -87,7 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,23 +152,23 @@
             <path>
               <item name="unitTests" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab3.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586189065502" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591256629787" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab4/aircompany/Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -200,25 +236,14 @@
       <updated>1586177537316</updated>
       <workItem from="1586177541658" duration="8147000" />
       <workItem from="1587559599530" duration="28000" />
+      <workItem from="1587642468173" duration="1575000" />
+      <workItem from="1588156663841" duration="82000" />
+      <workItem from="1591112320057" duration="42000" />
+      <workItem from="1591256591670" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_lab3_0 - 2020.04.06 at 18h 31m 30s.xml">
-      <configuration name="All in lab3.0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_lab3_0 - 2020.04.06 at 18h 33m 03s.xml">
-      <configuration name="All in lab3.0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_lab3_0 - 2020.04.06 at 18h 33m 33s.xml">
-      <configuration name="All in lab3.0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_lab3_0 - 2020.04.06 at 18h 35m 00s.xml">
-      <configuration name="All in lab3.0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_lab3_0 - 2020.04.06 at 18h 42m 47s.xml">
-      <configuration name="All in lab3.0" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_lab3_0 - 2020.04.06 at 18h 43m 11s.xml">
       <configuration name="All in lab3.0" configurationId="JUnit" />
     </history-entry>
@@ -234,9 +259,24 @@
     <history-entry file="All_in_lab3_0 - 2020.04.06 at 19h 04m 30s.xml">
       <configuration name="All in lab3.0" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_lab3_0 - 2020.04.23 at 14h 52m 20s.xml">
+      <configuration name="All in lab3.0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_lab3_0 - 2020.04.23 at 15h 02m 43s.xml">
+      <configuration name="All in lab3.0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_lab3_0 - 2020.04.23 at 15h 03m 29s.xml">
+      <configuration name="All in lab3.0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_lab3_0 - 2020.04.23 at 15h 12m 17s.xml">
+      <configuration name="All in lab3.0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_lab3_0 - 2020.04.23 at 15h 14m 26s.xml">
+      <configuration name="All in lab3.0" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8175000" />
+    <option name="totallyTimeSpent" value="9920000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,8 +289,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -288,14 +329,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="10" selection-start-line="1" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -307,13 +340,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -338,35 +364,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        <state relative-caret-position="180">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="140">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="20">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest9.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
