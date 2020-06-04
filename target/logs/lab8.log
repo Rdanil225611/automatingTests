@@ -1,0 +1,5 @@
+2020-06-02 18:59:40,116 INFO  [main] openPAge
+2020-06-02 18:59:40,981 INFO  [main] Click by Booking Status button
+2020-06-02 18:59:42,880 INFO  [main] Booking Status Form - user code : code1234 user lastname : Danilyuk
+2020-06-02 18:59:44,351 INFO  [main] Search button click at Booking Status form
+2020-06-02 18:59:46,858 INFO  [main] result of wrong Booking Status code : Бронирование не найдено
