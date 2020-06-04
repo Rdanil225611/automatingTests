@@ -12,7 +12,9 @@ public class Airport {
     public List<PassengerPlane> getPassengerPlane() {
         List<? extends Plane> planes = this.planes;
         List<PassengerPlane> passengerPlanes = new ArrayList<>();
-        for (Plane plane : planes) {if (plane instanceof PassengerPlane) {passengerPlanes.add((PassengerPlane) plane);}}
+        for (Plane plane : planes) {
+            if (plane instanceof PassengerPlane) {passengerPlanes.add((PassengerPlane) plane);
+            }}
         return passengerPlanes;
     }
 
@@ -113,7 +115,7 @@ public class Airport {
         Iterator<? extends Plane> iterator = collection.iterator();
         while (iterator.hasNext()) {
             Plane plane = iterator.next();
-            System.out.println(plane);
+
         }
     }
 
