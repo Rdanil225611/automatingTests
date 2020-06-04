@@ -1,0 +1,7 @@
+#surefire_0
+#Mon May 25 19:19:50 MSK 2020
+idea.version=2018.3.3
+test=BookFlightsFormHomePageTest\#setChildrenWithoutParent
+basedir=E\:\\3course2020\\automaticTesting\\lab6
+user.dir=E\:\\3course2020\\automaticTesting\\lab6
+localRepository=C\:\\Users\\Main\\.m2\\repository
